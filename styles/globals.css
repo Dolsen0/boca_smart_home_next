@@ -24,4 +24,5 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+    background-color: rgb(rgb(133, 84, 84), green, blue);
 }
